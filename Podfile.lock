@@ -1,0 +1,34 @@
+PODS:
+  - Masonry (1.1.0)
+  - MJRefresh (3.5.0)
+  - SDWebImage (5.8.4):
+    - SDWebImage/Core (= 5.8.4)
+  - SDWebImage/Core (5.8.4)
+  - TXLiteAVSDK_Player (7.7.9458)
+  - YYModel (1.0.4)
+
+DEPENDENCIES:
+  - Masonry
+  - MJRefresh
+  - SDWebImage
+  - TXLiteAVSDK_Player
+  - YYModel
+
+SPEC REPOS:
+  trunk:
+    - Masonry
+    - MJRefresh
+    - SDWebImage
+    - TXLiteAVSDK_Player
+    - YYModel
+
+SPEC CHECKSUMS:
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  MJRefresh: 6afc955813966afb08305477dd7a0d9ad5e79a16
+  SDWebImage: cf6922231e95550934da2ada0f20f2becf2ceba9
+  TXLiteAVSDK_Player: 7029bd52e0945c31fcd48f4136016531650401a1
+  YYModel: 2a7fdd96aaa4b86a824e26d0c517de8928c04b30
+
+PODFILE CHECKSUM: e5564d936dcbce3462e1fb19fd793a776378d570
+
+COCOAPODS: 1.9.3
